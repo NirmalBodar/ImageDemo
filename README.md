@@ -1,0 +1,4 @@
+• Get images from Unsplash API.  
+• Display correct images in the cells.  
+• Deal with large amount of images.  
+• Cache mehanism for easy loading image
